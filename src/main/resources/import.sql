@@ -1,0 +1,6 @@
+insert into super_market (item_number, item_name, unit_price, quantity, spl_price, other_item, other_quantity, spl_price_based_on_other_item) values (1, 'A', 50.0, 3, 130.0, NULL, 0, 0.0);
+insert into super_market (item_number, item_name, unit_price, quantity, spl_price, other_item, other_quantity, spl_price_based_on_other_item) values (2, 'B', 30.0, 2, 45.0, NULL, 0, 0.0);
+insert into super_market (item_number, item_name, unit_price, quantity, spl_price, other_item, other_quantity, spl_price_based_on_other_item) values (3, 'C', 20.0, 2, 38.0, NULL, 0, 0.0);
+insert into super_market (item_number, item_name, unit_price, quantity, spl_price, other_item, other_quantity, spl_price_based_on_other_item) values (4, 'C', 20.0, 3, 50.0, NULL, 0, 0.0);
+insert into super_market (item_number, item_name, unit_price, quantity, spl_price, other_item, other_quantity, spl_price_based_on_other_item) values (5, 'D', 15.0, 1, 15.0, 'A', 2, 5.0);
+insert into super_market (item_number, item_name, unit_price, quantity, spl_price, other_item, other_quantity, spl_price_based_on_other_item) values (6, 'E', 5.0, 1, 5.0, NULL, 0, 0.0);
